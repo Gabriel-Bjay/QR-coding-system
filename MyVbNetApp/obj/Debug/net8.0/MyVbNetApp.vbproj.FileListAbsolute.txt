@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.exe
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.deps.json
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.runtimeconfig.json
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.dll
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.pdb
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.AssemblyInfo.vb
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.sourcelink.json
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.dll
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\refint\MyVbNetApp.dll
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.pdb
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\Coding\QR\MyVbNetApp\obj\Debug\net8.0\ref\MyVbNetApp.dll
